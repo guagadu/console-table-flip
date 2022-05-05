@@ -1,0 +1,19 @@
+{
+  "name": "console-table-flip",
+  "version": "1.0.0",
+  "description": "Add a .flip() that can be chained onto a console.table() call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guagadu/console-table-flip.git"
+  },
+  "author": "Anna Aurelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guagadu/console-table-flip/issues"
+  },
+  "homepage": "https://github.com/guagadu/console-table-flip#readme"
+}
